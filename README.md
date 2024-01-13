@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I'm Danilo! 👋
+passionate about technology, programming and the use of data as a tool to build impact solutions from Machine Learning and AI models.
+
+In this space you will find a little about me and some of the projects I have worked on and which have allowed me to learn and become more passionate about this world, THE WORLD OF CODING!
 
 <!--
 **danilo0327/danilo0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
